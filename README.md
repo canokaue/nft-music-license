@@ -12,6 +12,9 @@ You can now give owners of your NFTs special privileges such as access to stems 
 ### Why?
 Why not?
 
+### Who are you?
+Definitely not a lawyer. Critiques, advices, corrections and contributions are welcome - use the "Discussion" tab or submit a PR - and use at your own risk and judgement.
+
 ## How do I use this?
 You can choose either the [Markdown](https://github.com/canokaue/nft-music-license#-canok-music-license-v01-), [Word Document](https://github.com/canokaue/nft-music-license/blob/main/canokml_template.docx), [Google Docs](https://docs.google.com/document/d/1FcKZqoY-uug9LSyQuwrYRFcXhCorQbzpZxDQ07zOXc8/edit?usp=sharing) (please don't ask for edit access, make a copy instead) or [Plain Text](https://github.com/canokaue/nft-music-license/blob/main/LICENSE) version. Replace the {{double curly}} variables with the ones that fit you case and voila. You can check the ones I use over at the examples/ folder. 
 
