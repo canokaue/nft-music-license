@@ -46,9 +46,9 @@ I do recommend you use an IPFS pinning service to distribute you files though.
 
 ## Signature
 
-**{{ENS_NAME}}** 
-msg: I approve this document.
-{{SIGNATURE_HASH}}
+**{{ENS_NAME}}** <br>
+msg: I approve this document. <br>
+{{SIGNATURE_HASH}} <br>
 
 Verify at [https://etherscan.io/verifySig](https://etherscan.io/verifySig)
 
