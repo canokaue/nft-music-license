@@ -13,7 +13,7 @@ You can now give owners of your NFTs special privileges such as access to stems 
 Why not?
 
 ## How do I use this?
-You can choose either the [Markdown](), [Word Document](), [Google Docs](https://docs.google.com/document/d/1FcKZqoY-uug9LSyQuwrYRFcXhCorQbzpZxDQ07zOXc8/edit?usp=sharing) (please don't ask for edit access, make a copy instead) or [Plain Text]() version. Replace the {{double curly}} variables with the ones that fit you case and voila. You can check the ones I use over at the examples/ folder. 
+You can choose either the [Markdown](https://github.com/canokaue/nft-music-license#-canok-music-license-v01-), [Word Document](https://github.com/canokaue/nft-music-license/blob/main/canokml_template.docx), [Google Docs](https://docs.google.com/document/d/1FcKZqoY-uug9LSyQuwrYRFcXhCorQbzpZxDQ07zOXc8/edit?usp=sharing) (please don't ask for edit access, make a copy instead) or [Plain Text](https://github.com/canokaue/nft-music-license/blob/main/LICENSE) version. Replace the {{double curly}} variables with the ones that fit you case and voila. You can check the ones I use over at the examples/ folder. 
 
 If you've cloned this repo, then you're basically set - copy the link to the license file and set it as "unlockable contentent" in your NFT Marketplace of choice.
 
